@@ -1,4 +1,4 @@
-import logging
+import logging 
 
 # Работа с логированием
 logger = logging.getLogger("Logger")
